@@ -101,7 +101,7 @@ Small KinyaGPT/
 │   └─ utils.py          # Data loading/preprocessing
 ├─ data/                # Tokenizer & tokenized data
 ├─ notebook/           # Interactive training notebook
-├─ assets/             # Graphs & plots
+├─ assets/             # Plots
 ├─ requirements.txt
 └─ README.md
 ```
