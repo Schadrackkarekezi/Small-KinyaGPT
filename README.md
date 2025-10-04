@@ -2,7 +2,7 @@
 # Small KinyaGPT — A 51M-Parameter GPT Language Model for Kinyarwanda
 
 **KinyaGPT** is a **51 million parameter**, lightweight, decoder-only Transformer (GPT-style) language model trained from scratch on the [mbazaNLP Kinyarwanda Monolingual Dataset](https://huggingface.co/datasets/mbazaNLP/kinyarwanda_monolingual_v01.1).
-It demonstrates how to build a custom language model from the ground up — including tokenizer creation, data preprocessing, model training, and text generation — for a **low-resource language**.
+It demonstrates how to build a custom language model from the ground up including tokenizer creation, data preprocessing, model training, and text generation for a **low-resource language**.
 
 ---
 
@@ -37,7 +37,8 @@ It demonstrates how to build a custom language model from the ground up — incl
 | ------------------- | ----- |
 | **Training Loss**   | ~3.95 |
 | **Validation Loss** | ~3.83 |
-| **Perplexity**      | ~46.0 |
+| **Perplexity**      | ~42.0 |
+| **Accuray**         | ~33.44%|
 
 ### Training vs. Validation Loss
 
