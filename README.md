@@ -92,7 +92,7 @@ Output: Paul Kagame ni umwe mu bayobozi bafite amateka akomeye mu Rwanda, aho ya
 ## Project Structure
 
 ```
-kinyaGPT/
+Small KinyaGPT/
 ├─ src/
 │   ├─ generate.py       # Text generation
 │   ├─ model.py          # GPT model definition
